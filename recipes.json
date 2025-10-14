@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Carbonara",
+    "ingredients": ["spaghetti", "eggs", "bacon", "parmesan", "black pepper"]
+  },
+  {
+    "id": 2,
+    "name": "Chocolate Chip Cookies",
+    "ingredients": ["flour", "butter", "sugar", "chocolate chips", "eggs"]
+  },
+  {
+    "id": 3,
+    "name": "Caesar Salad",
+    "ingredients": ["romaine lettuce", "croutons", "parmesan", "caesar dressing"]
+  },
+  {
+    "id": 4,
+    "name": "Chicken Curry",
+    "ingredients": ["chicken", "onion", "garlic", "curry powder", "coconut milk"]
+  },
+  {
+    "id": 5,
+    "name": "Vegetable Stir Fry",
+    "ingredients": ["broccoli", "carrots", "bell pepper", "soy sauce", "ginger"]
+  },
+  {
+    "id": 6,
+    "name": "Pancakes",
+    "ingredients": ["flour", "milk", "eggs", "baking powder", "sugar"]
+  },
+  {
+    "id": 7,
+    "name": "Guacamole",
+    "ingredients": ["avocado", "lime", "onion", "tomato", "cilantro"]
+  },
+  {
+    "id": 8,
+    "name": "Tomato Soup",
+    "ingredients": ["tomatoes", "onion", "garlic", "vegetable broth", "basil"]
+  },
+  {
+    "id": 9,
+    "name": "Beef Tacos",
+    "ingredients": ["ground beef", "taco shells", "lettuce", "cheddar", "salsa"]
+  },
+  {
+    "id": 10,
+    "name": "Greek Salad",
+    "ingredients": ["cucumber", "tomato", "feta cheese", "olives", "red onion"]
+  }
+]
