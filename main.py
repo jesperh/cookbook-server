@@ -34,4 +34,4 @@ def find_recipe(recipe_id: int):
 @app.get("/recipes")
 def get_recipes():
     recipes = load_recipes()
-    return {"recipes": recipes}
+    return recipes
